@@ -1,0 +1,10 @@
+administrador:
+
+usuario:pato
+contraseña:123456
+
+
+cliente:
+
+usuario:patito
+contraseña:123456
